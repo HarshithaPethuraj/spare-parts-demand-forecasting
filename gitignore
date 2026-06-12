@@ -1,0 +1,26 @@
+# Proprietary client data - never commit
+service_data_raw.csv
+*.sql
+
+# Archives
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated plots / scratch outputs (the app loads CSV/JSON, not images)
+artifacts/*.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

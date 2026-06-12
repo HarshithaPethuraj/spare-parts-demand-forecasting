@@ -1,0 +1,14 @@
+{
+  "ENGINE OIL": "HoltWinters",
+  "CHAIN LUBRICATION": "HoltWinters",
+  "AIR FILTER": "Prophet",
+  "3M OIL": "HoltWinters",
+  "DISC OIL": "TSB",
+  "BRAKE SHOE": "GlobalML",
+  "OIL FILTER": "HoltWinters",
+  "DISC PAD": "SBA",
+  "WHEEL RUBBER": "SARIMA",
+  "SPARK PLUG": "GlobalML",
+  "CHAIN SPROCKET": "MovingAvg4",
+  "SPROCKET RUBBER": "MovingAvg4"
+}
