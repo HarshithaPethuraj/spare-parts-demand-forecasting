@@ -1,0 +1,13 @@
+Part,Pattern,Previous_Best,Final_Best,RMSE,Improved
+WHEEL RUBBER,Smooth,SARIMA,SARIMA,1.29,-
+CHAIN SPROCKET,Smooth,MovingAvg4,MovingAvg4,2.65,-
+DISC PAD,Smooth,SARIMA,SBA,2.72,yes
+SPARK PLUG,Erratic,Naive,GlobalML,4.51,yes
+OIL FILTER,Smooth,HoltWinters,HoltWinters,5.92,-
+CHAIN LUBRICATION,Smooth,HoltWinters,HoltWinters,6.7,-
+AIR FILTER,Smooth,HoltWinters,Prophet,6.84,yes
+DISC OIL,Smooth,MovingAvg4,TSB,7.09,yes
+ENGINE OIL,Smooth,HoltWinters,HoltWinters,7.69,-
+3M OIL,Smooth,HoltWinters,HoltWinters,8.28,-
+SPROCKET RUBBER,Intermittent,MovingAvg4,MovingAvg4,9.53,-
+BRAKE SHOE,Smooth,SARIMA,GlobalML,9.64,yes
