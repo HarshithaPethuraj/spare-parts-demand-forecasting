@@ -2,7 +2,7 @@
 
 End-to-end demand forecasting for automotive spare parts, turning a raw service-invoice log into actionable **reorder points** so service centres can move toward a Just-In-Time (JIT) inventory standard.
 
-**Live demo:** _add your Streamlit Cloud link here once deployed_
+**Live demo:** https://spare-parts-demand-forecasting-z2ttznq93vpklednappv8md.streamlit.app/
 **Notebook:** [`analysis.ipynb`](analysis.ipynb)
 
 ---
